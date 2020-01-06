@@ -1,5 +1,4 @@
 # Implementation of REINFORCE policy gradient for LunarLander environment
-# + with baseline and temporal structure
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf
