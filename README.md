@@ -10,5 +10,5 @@ What I observed here is that...
 3) learning speed is expected to be increased by using actor-critic architecture  
 
 # Reward plot
-![reward_plot](https://github.com/SHINDONGMYUNG/PG_LunarLander_v2/reward_plot.png)  
-![reward_plot2](http://github.com/SHINDONGMYUNG/PG_LunarLander_v2/reward_plot2.png)
+![reward_plot](https://github.com/SHINDONGMYUNG/PG_LunarLander_v2/blob/master/reward_plot.png)  
+![reward_plot2](https://github.com/SHINDONGMYUNG/PG_LunarLander_v2/blob/master/reward_plot2.png)
